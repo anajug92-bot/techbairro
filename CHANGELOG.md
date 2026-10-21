@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
+
 ## v3.2.1 (Aula 18)
 ### Alterado
 - O número da versão passou a ficar definido em um único lugar no arquivo techbairro.py.
