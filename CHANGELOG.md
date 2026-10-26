@@ -1,8 +1,20 @@
 # CHANGELOG.md
 
+## v.3.3.2
+
+Documentação
+
+Organização da documentação para a entrega final.
+
+Atualização das instruções de execução do projeto.
+
+Preparação do registro de testes e da entrega final.
+
+Preparação do material para apresentação do projeto.
+
 ## Em desenvolvimento
 ### Adicionado
-- Código publicado no GitHub, com histórico de versões.
+- Código publicado no GitHub, com histórico de versões.z
 
 ## v3.2.1 (Aula 18)
 ### Alterado

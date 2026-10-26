@@ -1,0 +1,7 @@
+# Projeto: TechBairro
+# O projeto não possui dependências externas.
+# Utiliza apenas bibliotecas da biblioteca padrão do Python.
+#
+# tkinter: criação da interface gráfica.
+# sqlite3: acesso ao banco de dados SQLite.
+# os: operações com arquivos e caminhos.
